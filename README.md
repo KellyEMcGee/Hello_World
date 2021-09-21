@@ -1,1 +1,2 @@
 # Hello_World
+My name is Kelly McGee and I am a student at the University of Iowa studying accounting and business analytics and info systems. I will graduate from the University in the spring of 2023, with a B.B.A. in both majors as well as a minor in history. When not in the classroom I can be found volunteering with my sorority Zeta Tau Alpha, where I hold the executive position of secretary, or with my professional fraterity Delta Sigma Pi. 
