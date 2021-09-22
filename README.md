@@ -5,8 +5,6 @@
 ### Additonal information 
 ### Versioning 
 
-{:.gitlab-purple}
-
 For more information about my work please visit my [Linkedin.com](https://www.linkedin.com/in/kellyemcgee/)
 
 - [x] Join Github 
