@@ -1,5 +1,9 @@
-# *Table of contents+*
-### Project Title
+# *Table of contents* 
+### Project Title 
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
 ### Description
 ### Data Used
 ### Additonal information 
